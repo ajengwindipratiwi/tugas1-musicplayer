@@ -1,0 +1,20 @@
+{
+    "name": "ajeng/tugas1",
+    "description": "tugas pemrograman web lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Ajeng",
+            "email": "ajengwindiprtw@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
+

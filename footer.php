@@ -1,0 +1,1 @@
+copyright &copy; 2020. Programmed by Ajeng Windi Pratiwi
